@@ -1,5 +1,7 @@
 # My First Google Colab Notebook
 
+You can see a video demonstration of this assignment at https://youtu.be/CqFbZDLBzNw.
+
 ## Step 1: Fork this repository
 
 We did this in a previous assignment. You can review how to fork a repository at https://github.com/cmcntsh/N6429_GitHubForClassAssignments#fork-this-repository.
